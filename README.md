@@ -10,4 +10,5 @@ Use `make` to build the binary, which you can then run as `./tinyelfscarf`
 # build requirements
 `nasm`, the Netwide Assembler, must be installed, as well as make
 
+# The ELF scarf
 ![photo of binary ELF scarf](https://github.com/bx/tinyelfscarf/blob/8eafb64fc84c96c2e10cb795bc549ab8685c3648/scarf.jpg)
