@@ -6,4 +6,4 @@ This ELF file also exists in a physical form as a scarf.
 Use `make` to build the binary, which you can then run as
 `./tinyelfscarf` `nasm`, the Netwide Assembler, must be installed
 
-![photo of binary ELF scarf](https://github.com/bx/tinyelfscarf/scarf.jpg?raw=true)
+![photo of binary ELF scarf](https://github.com/bx/tinyelfscarf/blob/8eafb64fc84c96c2e10cb795bc549ab8685c3648/scarf.jpg)
