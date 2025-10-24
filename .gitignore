@@ -1,0 +1,7 @@
+tinyelfscarf
+.DS_Store
+.idea
+*.log
+tmp/
+
+
